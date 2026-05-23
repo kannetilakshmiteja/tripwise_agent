@@ -1,0 +1,39 @@
+[[pages]]
+path = "pages/1_Home.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "pages/2_Flights.py"
+name = "Flights"
+icon = "✈"
+
+[[pages]]
+path = "pages/3_Hotels.py"
+name = "Hotels"
+icon = "🏨"
+
+[[pages]]
+path = "pages/4_Support.py"
+name = "AI Support"
+icon = "💬"
+
+[[pages]]
+path = "pages/5_My_Trips.py"
+name = "My Trips"
+icon = "📋"
+
+[[pages]]
+path = "pages/6_Refunds.py"
+name = "Refunds"
+icon = "💰"
+
+[[pages]]
+path = "pages/7_Agents.py"
+name = "AI Agents"
+icon = "🤖"
+
+[[pages]]
+path = "pages/0_Login.py"
+name = "Login"
+icon = "🔐"

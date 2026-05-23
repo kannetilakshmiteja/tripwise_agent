@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+langchain
+langgraph
+langsmith
+langchain-openai
+openai
+tavily-python
+pandas
+chromadb
+streamlit
+requests
+typing-extensions
+email-validator
