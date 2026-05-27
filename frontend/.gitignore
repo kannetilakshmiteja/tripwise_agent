@@ -1,6 +1,0 @@
-data/user_profile.json
-data/my_bookings.json
-__pycache__/
-*.pyc
-.venv/
-venvtrip/
